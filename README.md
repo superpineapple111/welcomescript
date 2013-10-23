@@ -3,7 +3,7 @@ welcomescript
 
 A very simple welcome script
 
-Current welcomescript version: 1.01
+Current welcomescript version: 1.2
 
 Changes:
 
